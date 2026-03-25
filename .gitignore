@@ -12,5 +12,5 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Data (optional - if file is too big, but CSV is small so keep it)
+# Data 
 data/*.csv
